@@ -1,5 +1,7 @@
 let index;
+let color;
+index = 'Colombia';
 
-index = 'hola que mas pues';
-
+color = 'Amarillo';
 console.log(index);
+console.log(color);
